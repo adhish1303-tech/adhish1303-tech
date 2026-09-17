@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhish Harish Kenchannavar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [a curated Ayurvedic & natural remedies portal built using Django and Bootstrap.](https://github.com/adhish1303-tech/Ayuvedic-Remedies)
+- 🔭 I’m currently working on a project i.e [a curated Ayurvedic & natural remedies portal built using Django and Bootstrap.](https://github.com/adhish1303-tech/Ayuvedic-Remedies)
 
 - 🌱 I’m currently learning **Django Framework**
 
